@@ -3,7 +3,7 @@
 
 1- Clonar repositório
 2- executar o comando npm install
-3- rodar o json server com o comando npx json-server db.json
+3- rodar o json server com o comando npx json-server db.json (em caso de sucesso, ele deverá estar rodando na porta 3000. Em caso de estar em outra porta, será necessário alterar em "src/services/api" a porta utilizada.)
 4- rodar o frontend com npm run dev
 
 
